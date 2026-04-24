@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  ¡Construyendo interfaces intuitivas, automatizando flujos de trabajo y desarrollando sistemas escalables! Desde la investigación de usuarios hasta la arquitectura técnica de plataformas como <b>Lernymart</b> y sistemas de gestión de farmacias.
+  ¡Construyendo interfaces intuitivas, automatizando flujos de trabajo y desarrollando sistemas escalables! Desde la investigación de usuarios hasta la arquitectura técnica de plataformas y sistemas de gestión de farmacias.
 </p>
 
 ### 🧠 UX & Systems Strategy
